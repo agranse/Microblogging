@@ -1,4 +1,4 @@
-**Microblogging Platform**	(2023)
+**Microblogging Platform**
 
 * Built a full-stack blogging platform using Express.js, PUG, and MySQL to handle user posts, account management, and data storage.
 * Implemented user authentication and role-based access control for secure post creation, editing, and deletion.
